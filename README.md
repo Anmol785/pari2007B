@@ -1,2 +1,2 @@
-# pari2007B
-i have created a game named GCSO.
+# p5.play-boilerplate
+Boiler plate for p5.play
